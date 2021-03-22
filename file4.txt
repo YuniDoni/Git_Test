@@ -1,2 +1,1 @@
-version5
-version6
+delete
